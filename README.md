@@ -1,7 +1,7 @@
 
 ### Olá! Sou Natanael Aquino 👋
 
-[![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/natanael-aquino-97768b20b)
+[![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-aquino-97768b20b)
 [![Link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natanael_aquin/)
 
 ![Natanael Aquino GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanaelAquino&show_icons=true&theme=radical)
