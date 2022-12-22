@@ -6,7 +6,7 @@
 
 ![Natanael Aquino GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanaelAquino&show_icons=true&theme=radical)
 
-### Tecnolofias que uso no meu dia a dia
+### Tecnologias que uso no meu dia a dia
 
 <div style ="display: inline_block"><br/>
 
