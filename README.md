@@ -1,21 +1,23 @@
+<h1 align="center">Olá 👋, sou Natanael Aquino</h1>
+<h3 align="center">Um desenvolvedor front-end</h3>
 
-### Olá! Sou Natanael Aquino 👋
+<p align="left"> <img src=" https://komarev.com/ghpvc/?username=natanaelaquino&label=Profile%20views&color=0e75b6&style=flat" alt="natanaelaquino" /> </p>
 
-[![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-aquino-97768b20b)
-[![Link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natanael_aquin/)
+<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natanaelaquino" alt="natanaelaquino" /></a > </p>
 
-![Natanael Aquino GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanaelAquino&show_icons=true&theme=radical)
+- 🌱 Atualmente estou aprendendo **React native e react**
 
-### Tecnologias que uso no meu dia a dia
+- 📫 Como até chegar a mim **Natanaelaquino.contato@gmail.com**
 
-<div style ="display: inline_block"><br/>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="esquerda">
+<a href="https://linkedin.com/in/natanael-aquino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natanael-aquino" height="30" width="40" /></a>
+<a href= "https://instagram.com/natanael_aquin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/ src/images/icons/Social/instagram.svg" alt="natanael_aquin/" height="30" width="40" /></a>
+</p>
 
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<h3 align="left">Idiomas e ferramentas: </h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark .svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ > </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target=" _blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master /icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanaelaquino&show_icons=true&locale=en&layout=compact" alt="natanaelaquino" /> </p>
 
-
-</div>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=natanaelaquino&show_icons=true&locale=en" alt="natanaelaquino" /> </p>
