@@ -1,7 +1,7 @@
 # 💫 Natanael Aqquino
 🌱 Atualmente estou aprendendo React native e react<br>
 📫 Como chegar até mim Natanaelaquino.contato@gmail.com<br>
-👨‍💻 Estou a Procuro estagio 
+👨‍💻 Estudante de Engenharia de software á Procura de estagio 
 
 
 ## 🌐 Socials:
