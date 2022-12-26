@@ -1,5 +1,5 @@
 # 💫 Natanael Aquino
-🌱 Atualmente estou aprendendo React native e react<br>
+🌱 Atualmente estou aprendendo React Native e React<br>
 📫 Como chegar até mim Natanaelaquino.contato@gmail.com<br>
 👨‍💻 Estudante de Engenharia de software á Procura de estagio 
 
