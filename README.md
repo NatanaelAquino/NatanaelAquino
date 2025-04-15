@@ -1,7 +1,7 @@
 # 💫 Natanael Aquino
 🌱 Atualmente estou aprendendo Node e React  <br>
 📫 Como chegar até mim natanaelaquino.contato@gmail.com<br>
-👨‍💻 Estudante de Engenharia de software á Procura de estagio 
+👨‍💻 Estudante de Sistemas de informação  
 
 
 ## 🌐 Socials:
